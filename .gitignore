@@ -1,0 +1,9 @@
+# Ignore input/output data files
+*.in
+*.out
+
+# Ignore temporary build and executable files
+*.exe
+*.obj
+*.o
+
