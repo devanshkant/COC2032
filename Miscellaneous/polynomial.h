@@ -69,7 +69,7 @@ class Polynomial{
             return degree;
         }
         T getConstant() const {
-            if (coefficients.empty()) return 0;       // ⭐ FIX: safety check for empty vector
+            if (coefficients.empty()) return 0;       
             return coefficients[0];
         }
         void setCoefficient(int power, T val){
