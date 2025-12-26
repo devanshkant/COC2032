@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.out
+*.class
+*.log
+*.tmp
+*.bak
+.vscode/
