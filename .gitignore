@@ -6,5 +6,5 @@
 *.exe
 *.obj
 *.o
-
+.idea/
 extra/
